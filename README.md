@@ -2,6 +2,7 @@
 This is a simple api that performs basic crud operations on employee data
 # Requirements
   - Nodejs
+  - MySQL
 # Steps
 1. Create your database and  add the following code to create an "employee" table.
       ```mysql
