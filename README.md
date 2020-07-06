@@ -24,7 +24,7 @@ This is a simple api that performs basic crud operations on employee data
       ```
 
 2. Edit the ```db.config.js``` file in the folder ```/src``` and add your database name, username and password
-4. run ```npm update ``` on your commandline: ```bash/cmd``
+4. run ```npm update ``` on your commandline: ```bash/cmd```
 ```bash 
 npm update
 ```
