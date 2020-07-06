@@ -34,28 +34,27 @@ npm start
 ```
 6. The application can be accessed on this url [http://localhost:5000](http://localhost:5000)
 # API End Points
-    
- List all employees stored in database
-    ```http
+List all employees stored in database
+```http
     GET /api/v1/employees: 
-     ```
- Get a specific employee with employee_id
-    ```http
+```
+Get a specific employee with employee_id
+```http
     GET /api/v1/employees/<employee_id>: 
-    ```
- Create  employee
-    ```http
+```
+Create  employee
+```http
     POST /api/v1/employees : 
-    ```
- Update employee partially
-    ```http
+```
+Update employee partially
+```http
     PATCH /api/v1/employees/<employee_id>
-    ``` 
- Delete a employee
-    ```http
+``` 
+Delete a employee
+```http
     DELETE /api/v1/employees/<employee_id>
-    ```
+```
  Update employee completely
-    ```http
+```http
     PUT /api/v1/employees/<employee_id>
-    ```
+```
